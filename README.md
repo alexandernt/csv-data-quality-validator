@@ -1,3 +1,6 @@
+# Purpose
+To analyze a .csv file for data quality errors/discrepencies.
+
 # How to use
 1) Inside input/csv add the .csv file that you would like to validate.
 2) Replace following variables with the correct attributes:
