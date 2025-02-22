@@ -1,0 +1,15 @@
+column_name,data_type,total_nulls,percent_of_nulls,total_special_characters,is_duplicated_column
+provincia_id,int64,0,0.0,0,False
+provincia_nombre,object,0,0.0,0,False
+anio,float64,0,0.0,0,False
+codigo_delito_snic_id,object,0,0.0,0,False
+codigo_delito_snic_nombre,object,0,0.0,4080,False
+cantidad_hechos,float64,0,0.0,0,False
+cantidad_victimas,float64,14432,0.6255201109570042,0,False
+cantidad_victimas_masc,float64,14432,0.6255201109570042,0,False
+cantidad_victimas_fem,float64,14432,0.6255201109570042,0,False
+cantidad_victimas_sd,float64,14432,0.6255201109570042,0,False
+tasa_hechos,float64,0,0.0,0,False
+tasa_victimas,float64,14432,0.6255201109570042,0,False
+tasa_victimas_masc,float64,14432,0.6255201109570042,0,False
+tasa_victimas_fem,float64,14432,0.6255201109570042,0,False
